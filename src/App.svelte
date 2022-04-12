@@ -16,12 +16,12 @@
 
   /***********************************/
   // Customise the app by changing the following variables.
-  const TITLE = "Shapes";
-  const DESCRTIPTION = "A collection of shapes on the blockchain";
-  const HEADER_TITLE = "shapes.xyz";
-  const HEADER_LINK = "https://solarare.com";
+  const TITLE = "Letters for Ukraine";
+  const DESCRTIPTION = "7000 LetterHead NFTs with 100% of the profits going to support Ukraine 💙 Complete a set and receive a 1/1 NFT airdrop 💛 Sending more than just Letters 💌 Sending Support 💰";
+  const HEADER_TITLE = "Back to Home";
+  const HEADER_LINK = "https://lettersforukraine.io";
   // Your image or GIF needs to be in the /public folder for this to work
-  const IMAGE_LINK = "/example.gif";
+  const IMAGE_LINK = "/LFU Demo.gif";
   /***********************************/
 
   let { solana } = window as any;
